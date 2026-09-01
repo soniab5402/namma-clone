@@ -1,1 +1,1 @@
-# namma-clone
+# Studionamma-clone
